@@ -1,0 +1,81 @@
+1(a) Find a basis for the eigenspace corresponding to each listed eigenvalue for the following matrices:
+A = [5	0]
+	[2	1]
+Eigenvalues: λ = 1,5
+
+
+
+1(b) Find a basis for the eigenspace corresponding to each listed eigenvalue for the following matrices:
+A = [10	 -9]
+	[ 4	 -2]
+Eigenvalue: λ = 4
+
+
+
+1(c) A = [3  2]
+	     [3	 8]
+Determine whether λ = 2 is an eigenvalue of the matrix A. 
+Explain your reasoning and show any necessary calculations to support your answer.
+
+
+
+1(d)Define Linear Independence. Provide one suitable example.
+
+
+
+1(e) Write a brief over view of Simple Linear Regression.
+
+
+------------------------------------------------------------------------------------------------------------------
+
+
+2(a) Write a short note on PCA and their applications.
+
+
+
+2(b) Given the vectors:
+	
+u=(1,2,3) , (v = 4,5,6)
+
+Compute the following quantities:
+{(u.v)u}
+-------
+{(v.u)}
+
+
+
+2(c)Solve the following system of linear equations using the row echelon method:
+ 2x + 3y —  z = 1
+ 4x +  y +  z = 5
+-2x + 2y + 3z = 7
+
+x=13/25
+y=18/25
+z=11/5
+
+------------------------------------------------------------------------------------------------------------------
+
+
+3(a) Determine which sets of vectors are orthogonal.
+
+			(-1)			(5)				( 3)
+		u_1=( 4)	, 	u_2=(2)		,	u_3=(-4)
+			( 3)			(1)				(-7)	
+			
+
+3(b)Using Gram-Schmidt process how do you convert a set of linearly independent vectors into an orthonormal set.
+Write the Process of it and with one example.
+
+
+------------------------------------------------------------------------------------------------------------------
+
+
+4(a) Define Orthogonal Matrices and key properties. Give one example.
+
+
+
+4(b) Verify the parallelogram law for vectors u and v in R^n:
+||u + v||^2 + ||u - v||^2 = 2 ||u||^2 + ||v||^2
+
+
+------------------------------------------------------------------------------------------------------------------
