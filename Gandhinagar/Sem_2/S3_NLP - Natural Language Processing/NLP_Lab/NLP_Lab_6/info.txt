@@ -1,0 +1,9 @@
+NLP_Lab_6 OCR
+
+https://github.com/kirtanc25/Gujarati_Handwritten_Character_Recognition
+
+https://cloudinary.com/guides/web-performance/extract-text-from-images-in-python-with-pillow-and-pytesseract
+
+https://stackoverflow.com/questions/57369093/extract-gujarati-language-supported-by-google-input-tools-text-from-newspaper
+
+https://www.affinda.com/blog/how-to-convert-image-to-text-using-python
