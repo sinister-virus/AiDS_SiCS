@@ -1,0 +1,3 @@
+https://medium.com/@anuj_shah/visual-question-answering-2350eea072df
+https://adeveloperdiary.com/data-science/deep-learning/nlp/machine-translation-recurrent-neural-network-pytorch/
+https://www.google.com/imgres?q=speech%20recogniton%20using%20spectrogram%20CNN%20architecture&imgurl=https%3A%2F%2Fwww.researchgate.net%2Fpublication%2F342012096%2Ffigure%2Ffig4%2FAS%3A941766794571778%401601546109304%2FThe-CNN-architecture-of-the-SER.png&imgrefurl=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FThe-CNN-architecture-of-the-SER_fig4_342012096&docid=KRyYZkoFEKvq1M&tbnid=0-MA_RG9KrrpGM&vet=12ahUKEwjkuveXudmMAxV66DQHHY-sKnkQM3oECFwQAA..i&w=850&h=536&hcb=2&ved=2ahUKEwjkuveXudmMAxV66DQHHY-sKnkQM3oECFwQAA
