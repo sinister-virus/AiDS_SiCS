@@ -1,0 +1,11 @@
+Dear Students,
+
+The following links may be helpful. You can look for other links as well.
+
+https://coin98.net/what-is-proof-of-stake-pos
+https://www.geeksforgeeks.org/proof-of-stake-pos-in-blockchain/
+https://www.shiksha.com/online-courses/articles/proof-of-stake-pos-in-blockchain/
+https://appinventiv.com/blog/traditional-database-vs-blockchain/
+https://consensys.net/blockchain-use-cases/energy-and-sustainability/
+https://www.forbes.com/advisor/investing/cryptocurrency/bitcoins-energy-usage-explained/
+https://www.geeksforgeeks.org/proof-of-burn-consensus-algorithm-in-blockchain/
