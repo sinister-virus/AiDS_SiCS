@@ -87,10 +87,11 @@ print("\nClassification Report:\n", classification_report(y_test, y_pred, target
 
 """## Step 6: Visualization of Classification Results"""
 
+## Step 6: Visualization of Classification Results
+
 import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix
-import numpy as np
 
 # Generate the confusion matrix
 cm = confusion_matrix(y_test, y_pred)
@@ -98,8 +99,8 @@ cm = confusion_matrix(y_test, y_pred)
 # Plot the confusion matrix
 plt.figure(figsize=(8, 6))
 sns.heatmap(cm, annot=True, fmt='d', cmap='Blues',
-            xticklabels=label_encoder.classes_,
-            yticklabels=label_encoder.classes_)
+            xticklabels=le.classes_,
+            yticklabels=le.classes_)
 
 plt.xlabel('Predicted')
 plt.ylabel('Actual')
